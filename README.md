@@ -1,6 +1,4 @@
 ### study-of-basic-
-NAME:P.VIGNESHWARAN
-REF NO:24900068
 
 **AIM:** 
 
